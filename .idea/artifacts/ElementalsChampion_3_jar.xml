@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ElementalsChampion 3:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="ElementalsChampion 3.jar">
+      <element id="module-output" name="ElementalsChampion 3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jmf.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
